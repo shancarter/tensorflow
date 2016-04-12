@@ -77,3 +77,4 @@ TensorFlow features.
 * [Download and Setup](../get_started/os_setup.md)
 * [Basic Usage](../get_started/basic_usage.md)
 * [TensorFlow Mechanics 101](../tutorials/mnist/tf/index.md)
+* [Play with a neural network in your browser](https://playground.tensorflow.org)
